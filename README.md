@@ -27,5 +27,5 @@
 ### 🌐 Ecosystem & Enterprise Verification
 
 * 🐙 **GitHub Repository:** [bangsaen-active-defense-sdk](https://github.com/bangsaenai/bangsaen-active-defense-sdk)
-* 🌐 **Official Web Portal:** [bangsaenai.com](https://studio.bangsaenai.com)
+* 🌐 **Official Web Portal:** [bangsaenai.com](https://www.bangsaenai.com)
 * 📩 **Commercial Licensing & B2B Attestation:** `drtanet@bangsaenai.com`
